@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FST3253MTCX
+#/368503/414952/2.48/16/4/Integrated Circuit
+DEF FST3253MTCX IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "FST3253MTCX" 950 200 50 H V L CNN
+F2 "SOP65P640X110-16N" 950 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/FST3253MTCX.pdf" 950 0 50 H I L CNN
+F4 "IC, Fairchild, FST3253MTCX Fairchild Semiconductor FST3253MTCX, Multiplexer/Demultiplexer Dual 4:1 Multiplexer, 4  5.5 V, 16-Pin TSSOP" 950 -100 50 H I L CNN "Description"
+F5 "1.1" 950 -200 50 H I L CNN "Height"
+F6 "ON Semiconductor" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "FST3253MTCX" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "512-FST3253MTCX" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/FST3253MTCX?qs=9%2FFjV4%2Fi8eqnAjRVZNaJgw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "FST3253MTCX" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/fst3253mtcx/on-semiconductor" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~OE1 1 0 0 200 R 50 50 0 0 P
+X S1 2 0 -100 200 R 50 50 0 0 P
+X 1B4 3 0 -200 200 R 50 50 0 0 P
+X 1B3 4 0 -300 200 R 50 50 0 0 P
+X 1B2 5 0 -400 200 R 50 50 0 0 P
+X 1B1 6 0 -500 200 R 50 50 0 0 P
+X 1A 7 0 -600 200 R 50 50 0 0 P
+X GND 8 0 -700 200 R 50 50 0 0 W
+X VCC 16 1100 0 200 L 50 50 0 0 W
+X ~OE2 15 1100 -100 200 L 50 50 0 0 P
+X S0 14 1100 -200 200 L 50 50 0 0 P
+X 2B4 13 1100 -300 200 L 50 50 0 0 P
+X 2B3 12 1100 -400 200 L 50 50 0 0 P
+X 2B2 11 1100 -500 200 L 50 50 0 0 P
+X 2B1 10 1100 -600 200 L 50 50 0 0 P
+X 2A 9 1100 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
