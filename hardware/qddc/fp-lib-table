@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ETC4-1-2TR)(type Legacy)(uri ${KIPRJMOD}/../kicad/ETC4-1-2TR.mod)(options "")(descr ""))
+  (lib (name FST3253MTCX)(type Legacy)(uri ${KIPRJMOD}/../kicad/FST3253MTCX.mod)(options "")(descr ""))
+  (lib (name OPA2350UA)(type Legacy)(uri ${KIPRJMOD}/../kicad/OPA2350UA.mod)(options "")(descr ""))
+)
