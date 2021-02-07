@@ -2,4 +2,5 @@
   (lib (name FST3253MTCX)(type Legacy)(uri ${KIPRJMOD}/../kicad/FST3253MTCX.lib)(options "")(descr ""))
   (lib (name ETC4-1-2TR)(type Legacy)(uri ${KIPRJMOD}/../kicad/ETC4-1-2TR.lib)(options "")(descr ""))
   (lib (name OPA2350UA)(type Legacy)(uri ${KIPRJMOD}/../kicad/OPA2350UA.lib)(options "")(descr ""))
+  (lib (name CON-SMA-EDGE-S)(type Legacy)(uri ${KIPRJMOD}/../kicad/CON-SMA-EDGE-S.lib)(options "")(descr ""))
 )

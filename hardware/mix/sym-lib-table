@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name ETC4-1-2TR)(type Legacy)(uri ${KIPRJMOD}/../kicad/ETC4-1-2TR.lib)(options "")(descr ""))
   (lib (name BAT54XY_115)(type Legacy)(uri ${KIPRJMOD}/../kicad/BAT54XY_115.lib)(options "")(descr ""))
+  (lib (name CON-SMA-EDGE-S)(type Legacy)(uri ${KIPRJMOD}/../kicad/CON-SMA-EDGE-S.lib)(options "")(descr ""))
 )
