@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name R1CBU)(type Legacy)(uri /home/master/src/ModularRadio/hardware/kicad/R1CBU.lib)(options "")(descr ""))
+)

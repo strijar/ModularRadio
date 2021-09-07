@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name hermeslite)(type Legacy)(uri /home/master/src/ModularRadio/hardware/kicad/hermeslite.lib)(options "")(descr ""))
+  (lib (name ETC4-1-2TR)(type Legacy)(uri /home/master/src/ModularRadio/hardware/kicad/ETC4-1-2TR.lib)(options "")(descr ""))
+  (lib (name R1CBU)(type Legacy)(uri /home/master/src/ModularRadio/hardware/kicad/R1CBU.lib)(options "")(descr ""))
+)
